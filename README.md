@@ -43,10 +43,46 @@
  - Ferramentas de prototipação
  - Contato com negócios e tech <br>
  
- ✔️Softskill para ser UX:
+✔️Softskill para ser UX:
   - Adaptabilidade
   - Comunicação
   - Criatividade
   - Organização
 ---
+
+### Descobrindo e definindo problemas
+
+✔️Não existe jeito certo de fazer UX, existem várias metodologias e visões diferentes, sendo que a maioria das metodologias foram criadas por autores estadunidenses, por isso é necessário adaptá-las para a nossa realidade. <br>
+
+✔️Diamante duplo: 
+
+ - Divide o trabalho do dsigner em duas etapas, sendo elas: problema e solução.
+ - A etapa problema por sua vez está dividida em duas etapas, sendo elas: pesquisa (diverdir) e insight (converdir).
+ - A etapa solução por sua vez está dividida em duas etapas, sendo elas ideação (diverdir) e a prototipação/teste (converdir). <br>
+
+✔️Etapa problema
+
+ - Objetivos: 
+ 1. Entender como os usuários resolvem o problema hoje. 
+ 2.  Identificar qual tipo de usuário sente mais dor com o problema.
+ 3.  Conseguir quantificar o impacto do problema (em tempo e/ou dinheiro).
+ - Métodos: 
+ 1. Matriz CSD: exercício para o time organizar quais são as certezas, suposições e dúvidas do time sobre o assunto. Sendo que, suposições e duvidas serão respondidas com pesquisas. <br>
+
+✔️Desafio: Faça uma matriz CSD para organizar seu conhecimento sobre as pequenas e micro empresas que não comercializam seus produtos pela internet.
+
+ - Quais são as suas certezas sobre o assunto? <br>
+Com base em dados de 2019, 40 milhões de brasileiros não tem acesso a internet. <br>
+Com a pandemia, o número de vendas online aumentou em 68%. <br>
+Muitos brasileiro tem conhecimento básico ou nenhum sobre tecnologia e marketing. <br>
+ - Quais são as suas suposições? <br>
+Suponho que o ensino acerca do marketing digital é de dificil acesso e não existem muitas plataformas de ensino sobre o tema. E, por isso, os comerciantes não sabem por onde começar.<br>
+ - E quais são as suas dúvidas? <br>
+ Qual seria o investimento desses comerciantes em cursos sobre marketing digital? <br>
+Em quanto tempo eles conseguiram atingir um conhecimento consolidado no tema?
+
+
+ 
+ 
+
 
