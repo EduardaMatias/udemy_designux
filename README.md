@@ -71,15 +71,15 @@
 
 ✔️Desafio: Faça uma matriz CSD para organizar seu conhecimento sobre as pequenas e micro empresas que não comercializam seus produtos pela internet.
 
- - Quais são as suas certezas sobre o assunto? <br>
-Com base em dados de 2019, 40 milhões de brasileiros não tem acesso a internet. <br>
-Com a pandemia, o número de vendas online aumentou em 68%. <br>
-Muitos brasileiro tem conhecimento básico ou nenhum sobre tecnologia e marketing. <br>
- - Quais são as suas suposições? <br>
-Suponho que o ensino acerca do marketing digital é de dificil acesso e não existem muitas plataformas de ensino sobre o tema. E, por isso, os comerciantes não sabem por onde começar.<br>
- - E quais são as suas dúvidas? <br>
- Qual seria o investimento desses comerciantes em cursos sobre marketing digital? <br>
-Em quanto tempo eles conseguiram atingir um conhecimento consolidado no tema?
+ 1. Quais são as suas certezas sobre o assunto? <br>
+ - Com base em dados de 2019, 40 milhões de brasileiros não tem acesso a internet. <br>
+ - Com a pandemia, o número de vendas online aumentou em 68%. <br>
+ - Muitos brasileiro tem conhecimento básico ou nenhum sobre tecnologia e marketing. <br>
+ 2. Quais são as suas suposições? <br>
+ - Suponho que o ensino acerca do marketing digital é de dificil acesso e não existem muitas plataformas de ensino sobre o tema. E, por isso, os comerciantes não sabem por onde começar.<br>
+ 3. E quais são as suas dúvidas? <br>
+ - Qual seria o investimento desses comerciantes em cursos sobre marketing digital? <br>
+ - Em quanto tempo eles conseguiram atingir um conhecimento consolidado no tema?
 
 
  
